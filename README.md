@@ -2,7 +2,7 @@
 ## 1.简介(Introduce)
 - 1.The grub theme is about Hare which from the game Blue Archive.
 - 1.这是一个小钩晴主题，来自游戏《蔚蓝档案》
-- 2.[哔哩哔哩视频介绍](https://www.bilibili.com/video/BV18FzpYSEHQ/)
+- 2.[哔哩哔哩视频介绍](https://www.bilibili.com/video/BV1ezGRztEaf)
 ## 2.预览(Preview)
 ![image](background.jpg)
 ## 3.安装方式(Installation)
